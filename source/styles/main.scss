@@ -1,0 +1,6 @@
+@use './variaveis.sass';
+
+body {
+    background-color: variaveis.$corPrincipal;
+}
+        
